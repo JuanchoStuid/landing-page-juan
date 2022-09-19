@@ -207,7 +207,7 @@ export const portfolioItems: PortfolioItem[] = [
   {
     title: 'Project Landing Page',
     description: 'Proyecto de la landing page.',
-    url: 'https://timbaker.me',
+    url: 'https://github.com/JuanchoStuid/landing-page-juan',
     image: porfolioImage6,
   },
 ];
