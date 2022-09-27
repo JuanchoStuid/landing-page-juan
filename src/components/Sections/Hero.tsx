@@ -12,6 +12,11 @@ const Hero: FC = memo(() => {
 
   return (
     <Section noPadding sectionId={SectionId.Hero}>
+      {/* <div>
+        <a style="display:block" href="https://colombia.marialuisa.foundation/campus/" target="_blank" title="Campus • FIMLM">
+          <img src="http://images.fimlm.org/campus/CampusFIMLMMini.png" style="max-width: 100%; min-width:auto; margin: 0 auto;display: block;" alt="Campus FIMLM">
+        </a>
+      </div> */}
       <div className="relative flex h-screen w-screen items-center justify-center">
         <Image
           alt={`${name}-image`}
